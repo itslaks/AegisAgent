@@ -1,0 +1,8 @@
+# Copy to config.py and fill values. DO NOT commit config.py to git.
+TWILIO_ACCOUNT_SID = "<TWILIO_ACCOUNT_SID>"
+TWILIO_AUTH_TOKEN = "<TWILIO_AUTH_TOKEN>"
+TWILIO_FROM_NUMBER = "+15551234567"
+GEMINI_API_KEY = "<GEMINI_API_KEY>"
+REDIS_URL = "redis://localhost:6379/0"
+DEMO_MODE = True
+ALERT_CONTACT = "+911234567890"

@@ -1,0 +1,7 @@
+AegisAgent — 3 minute demo video script
+0:00-0:10 — Intro
+0:10-0:40 — Problem
+0:40-1:30 — Architecture (visuals)
+1:30-2:10 — Live demo snippets
+2:10-2:40 — Results & Metrics
+2:40-3:00 — Call to action

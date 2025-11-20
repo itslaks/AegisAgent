@@ -1,0 +1,17 @@
+numpy
+pandas
+requests
+flask
+fastapi
+uvicorn
+python-dotenv
+torch
+torchvision
+opencv-python
+soundfile
+librosa
+redis
+faiss-cpu
+loguru
+twilio
+jupyterlab
